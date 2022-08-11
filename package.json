@@ -25,6 +25,7 @@
     "immer": "^9.0.15",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-is": "^18.2.0",
     "react-refresh": "^0.13.0",
     "recoil": "^0.7.4",
     "styled-components": "^5.3.5",
@@ -50,5 +51,6 @@
   },
   "overrides": {
     "@types/react": "^17.0.38"
-  }
+  },
+  "packageManager": "yarn@3.2.2"
 }
